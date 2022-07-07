@@ -1,0 +1,28 @@
+body {
+  box-sizing: border-box;
+}
+
+#navbar {
+  background-color: blue;
+}
+header {
+  display: flex;
+
+  background-color: blue;
+}
+header h1 {
+    color: bisque;
+    margin: 0%;
+}
+a {
+  color: bisque;
+  
+}
+
+header nav ul {
+  display: flex;
+
+  list-style-type: none;
+  border: 2px;
+  padding: 0;
+}
